@@ -54,8 +54,6 @@ El proyecto presenta los siguientes archivos para uso del usuario:
 * `components`: Carpeta que contiene los componentes del proyecto , cada uno con una hoja de estilos en un archivo con el nombre del componente.
 
 ## Imagenes del proyecto :
-* Vista login del proyecto:
-![Con titulo]()
 
 * Vista principal :
 ![Con titulo]()
@@ -66,7 +64,7 @@ Para ver el demo dar click [aquí]( "titulo")
 
 ## Autoras
 
-* Manuela Flores Vilchez [Cuenta GitHub ](https://github.com/Manu160296 "titulo")
+* Manuela Flores Vilchez [Cuenta GitHub ](https://github.com/ManuelaFlores "titulo")
 * Lilliam Haro Bernal [Cuenta GitHub ]( https://github.com/LilliamHaro "titulo")
 * Patricia Urco Ochoa [Cuenta GitHub ](https://github.com/Patty8909 "titulo")
 
