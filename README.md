@@ -19,15 +19,15 @@ Este proyecto consiste en implementar un app para un sitio de comida rápida que
 
 ## PLAN DE TRABAJO : 
 
-El proyecto se realizó en un día y para ello se propuso dividir el proyecto en una serie de etapas que se detallarán a continuación :
+El proyecto se realizó en un sprint y para ello se propuso dividir el proyecto en una serie de etapas que se detallarán a continuación :
 
 #### ETAPA 1 : 
 * Dibujar el sketch del proyecto ( imagen adjunta al final de esta etapa).
-* Elección de colores y tipografías.
+* Elección de colores y tipografías (Especificados en el tablero Trello).
 * Planificación de los puntos a  presentar en el readme.
-* Creación de un tablero  en TRELLO.
 * Crear issues y milestones que sirvan como hoja de ruta (roadmap).
-
+* Creación de un tablero  en TRELLO.![Ir al Tablero](https://trello.com/b/wAgD5QC7/burguer-queen)
+![Tablero de planificaión en Trello]()
 ![SKETCH]()
 
 #### ETAPA 2 :
