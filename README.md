@@ -26,8 +26,10 @@ El proyecto se realizó en un sprint y para ello se propuso dividir el proyecto 
 * Elección de colores y tipografías (Especificados en el tablero Trello).
 * Planificación de los puntos a  presentar en el readme.
 * Crear issues y milestones que sirvan como hoja de ruta (roadmap).
-* Creación de un tablero  en TRELLO.![Ir al Tablero](https://trello.com/b/wAgD5QC7/burguer-queen)
+* Creación de un tablero  en TRELLO con la planificaión del proyecto.
+
 ![Tablero de planificaión en Trello](assets/images/trello.png)
+
 ![SKETCH]()
 
 #### ETAPA 2 :
