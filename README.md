@@ -30,7 +30,22 @@ El proyecto se realizó en un sprint y para ello se propuso dividir el proyecto 
 
 ![Tablero de planificaión en Trello](assets/images/trello.png)
 
-![SKETCH]()
+## Sketchs del flujo de la aplicación :
+
+![SKETCH](assets/images/1.jpg)
+
+![SKETCH](assets/images/2.jpg)
+
+![SKETCH](assets/images/3.jpg)
+
+![SKETCH](assets/images/4.jpg)
+
+![SKETCH](assets/images/5.jpg)
+
+![SKETCH](assets/images/6.jpg)
+
+![SKETCH](assets/images/7.jpg)
+
 
 #### ETAPA 2 :
 
