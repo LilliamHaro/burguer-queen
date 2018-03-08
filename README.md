@@ -32,19 +32,19 @@ El proyecto se realizó en un sprint y para ello se propuso dividir el proyecto 
 
 ## Sketchs del flujo de la aplicación :
 
-![SKETCH](assets/images/1.jpg)
+![SKETCH](assets/images/10.jpg)
 
-![SKETCH](assets/images/2.jpg)
+![SKETCH](assets/images/20.jpg)
 
-![SKETCH](assets/images/3.jpg)
+![SKETCH](assets/images/30.jpg)
 
-![SKETCH](assets/images/4.jpg)
+![SKETCH](assets/images/40.jpg)
 
-![SKETCH](assets/images/5.jpg)
+![SKETCH](assets/images/50.jpg)
 
-![SKETCH](assets/images/6.jpg)
+![SKETCH](assets/images/60.jpg)
 
-![SKETCH](assets/images/7.jpg)
+![SKETCH](assets/images/70.jpg)
 
 
 #### ETAPA 2 :
